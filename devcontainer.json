@@ -1,0 +1,7 @@
+"features": {
+  "ghcr.io/devcontainers/features/desktop-lite:1": {
+    "kind": "desktop",
+    "desktopDistro": "windows"
+  },
+  "ghcr.io/devcontainers/features/docker-from-docker:1": {}
+}
